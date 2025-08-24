@@ -1,0 +1,5 @@
+langchain_ollama
+langgraph
+langchain
+typing
+ipython
