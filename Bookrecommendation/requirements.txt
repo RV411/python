@@ -1,0 +1,13 @@
+kagglehub
+pandas
+matplotlib
+seaborn
+langchain_ollama
+langchain-community
+langchain-chroma
+transformers
+gradio
+notebook
+ipywidgets
+langgraph
+langchain
