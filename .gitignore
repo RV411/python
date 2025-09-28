@@ -7,3 +7,5 @@ mlartifacts/
 mlruns/
 Bookrecommendation/env
 Bookrecommendation/books_cleaned.csv
+LANGGraph/chrome_langchain_db
+LANGGraph/langchain/__pycache__
